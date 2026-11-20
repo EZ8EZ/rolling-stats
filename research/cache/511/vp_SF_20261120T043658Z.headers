@@ -1,0 +1,14 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Content-Type: application/x-google-protobuf; charset=utf-8
+Date: Fri, 20 Nov 2026 04:36:59 GMT
+Expires: -1
+Pragma: no-cache
+RateLimit-Limit: 60
+RateLimit-Remaining: 59
+Server: Microsoft-IIS/10.0
+Content-Length: 49268
+Connection: keep-alive
+

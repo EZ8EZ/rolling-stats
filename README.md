@@ -2,7 +2,7 @@
 
 A Baseball Savant-style stats site for San Francisco Muni vehicles. A fan project, not affiliated with SFMTA.
 
-**Status:** planning complete, nothing built. The project is gated on a data spike (Milestone 0) that needs a 511 API key.
+**Status:** data spike passed (see `research/SPIKE.md`); no application code yet.
 
 - Plan: [`docs/PLAN.md`](docs/PLAN.md)
 - Metric definitions: [`docs/METRICS.md`](docs/METRICS.md)

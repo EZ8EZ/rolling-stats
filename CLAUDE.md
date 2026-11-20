@@ -4,7 +4,7 @@ Fan stats site for San Francisco Muni vehicles. Not affiliated with SFMTA.
 
 ## Current state
 
-Planning is done; no application code exists yet. **Milestone 0 (data spike) must pass before any pipeline or site code is written.** See `docs/PLAN.md`.
+Planning and the Milestone 0 data spike are done (`research/SPIKE.md`); no application code exists yet. One open check remains before M1: a weekday peak-hour live sample for pairings.
 
 ## Rules
 

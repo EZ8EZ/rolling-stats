@@ -14,6 +14,10 @@ Decisions made by the owner:
 
 Labels: **[V]** verified with real data, **[D]** documentation only, **[I]** inferred, **[U]** unverified.
 
+## Milestone 0 result (2026-11-20)
+
+The data spike ran and passed the gate: vehicle ids are on 100% of Muni rows in the archive. It also found that the archive records one car per train, has no dwell data, and that trailing cars may be invisible in the live feed too. See `research/SPIKE.md`. The matrix and metric notes below predate the spike; where they conflict, SPIKE.md wins. Open item before M1: a weekday peak-hour live sample to decide whether pairings are recoverable.
+
 ## Feasibility matrix
 
 | # | Feature | Source | Fields | Confidence | Caveat |
