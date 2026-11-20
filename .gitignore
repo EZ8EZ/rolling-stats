@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+.astro/
+.vercel/
+# raw 511 downloads are never committed
+research/cache/**/*.zip
+raw/
+*.duckdb
